@@ -4,15 +4,15 @@ const isProd = process.env.NODE_ENV === 'production';
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: isProd ? '/Simple-PDF-Editor' : '',
-  assetPrefix: isProd ? '/Simple-PDF-Editor/' : '',
+  basePath: isProd ? '/PDF-Editor' : '',
+  assetPrefix: isProd ? '/PDF-Editor/' : '',
   turbopack: {},
   reactStrictMode: false,
   images: {
     unoptimized: true, // Required for static export
   },
   env: {
-    NEXT_PUBLIC_BASE_PATH: isProd ? '/Simple-PDF-Editor' : '',
+    NEXT_PUBLIC_BASE_PATH: isProd ? '/PDF-Editor' : '',
   },
 };
 
