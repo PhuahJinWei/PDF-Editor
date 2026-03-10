@@ -1,8 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Simple PDF Editor / PDFエディター
+
+## instantly use it ---> [here こちら](https://phuahjinwei.github.io/BlackJack-Mobile/)
+<img src="src/demoPic.png" alt="demoPic" width="70%">
+
+---
 
 ## Getting Started
 
-First, run the development server:
+First, download ZIP, extract and run the development server:
 
 ```bash
 npm run dev
@@ -16,6 +21,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can start editing the page by uploading or opening any PDF documents.
