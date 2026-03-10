@@ -1,7 +1,7 @@
 # Simple PDF Editor / PDFエディター
 
 ## instantly use it ---> [here こちら](https://phuahjinwei.github.io/BlackJack-Mobile/)
-<img src="src/demoPic.png" alt="demoPic" width="70%">
+<img src="src/demoPic.png" alt="demoPic" width="100%">
 
 ---
 
